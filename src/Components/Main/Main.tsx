@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { Typewriter } from "react-simple-typewriter";
 import Pic from "../../images/avatar.png";
 // import styles from "./MainPart.module.css";

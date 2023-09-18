@@ -43,10 +43,10 @@ const education = [
 ];
 
 const Career: React.FC = () => {
-  const fadeIn = {
-    hidden: { opacity: 0 },
-    visible: { opacity: 1 },
-  };
+  // const fadeIn = {
+  //   hidden: { opacity: 0 },
+  //   visible: { opacity: 1 },
+  // };
 
   const slideIn = {
     hidden: { x: -20 },
